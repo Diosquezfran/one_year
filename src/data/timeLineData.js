@@ -13,7 +13,7 @@ export const capsules = [
   },
   {
     title: "El comienzo",
-    content: "Todó comenezó un día de lluvia, en el que por cuestiones del destinos, entre tantas miles de posiblidades, coincidimos en un lugar...",
+    content: "Todó comenezó un día de lluvia, en el que por cuestiones del destino, entre tantas miles de posiblidades, coincidimos en un lugar...",
     image: "https://res.cloudinary.com/druj3xeao/image/upload/v1746051184/profile/IMG_4918_xdo2hd.jpg",
     link: ""
   },
@@ -32,7 +32,7 @@ export const capsules = [
   },
   {
     title: "",
-    content: "Si hasta pude hacerte cambiar esa percpeción que tenías de mi",
+    content: "Con el tiempo pude hacerte cambiar esa percpeción que tenías de mi",
     image: "https://res.cloudinary.com/druj3xeao/image/upload/v1746050052/profile/IMG_8870_mpi37n.jpg",
     // gallery:[]
   },
@@ -71,7 +71,7 @@ export const capsules = [
     image: "https://res.cloudinary.com/druj3xeao/image/upload/v1746048578/profile/IMG_1557_crdoil.jpg",
   },
   {
-    title: "nuestras madrugaditas",
+    title: "Nuestras madrugaditas",
     content: "Pero luego vinieron noches y amaneceres que fueron mejores",
     image: "https://res.cloudinary.com/druj3xeao/image/upload/v1746049234/profile/IMG_3546_xznpjx.jpg",
     gallery: [
